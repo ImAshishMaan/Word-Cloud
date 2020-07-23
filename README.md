@@ -2,7 +2,7 @@
 A little word cloud generator in Python.
 
 # How to Work
-Generate Word Cloud by a CSV text file. Write any intresting Words in the txt file.
+Generate Word Cloud by a CSV text file. Write any intresting Words in the txt file.<br>
 You should have jupyter notebook to run this.
 
 # Example
