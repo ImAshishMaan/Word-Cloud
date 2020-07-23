@@ -1,5 +1,6 @@
 # Word-Cloud
-A little word cloud generator in Python.
+A little word cloud generator in Python.<br> 
+For those who are Beginner in Python Libraries.
 
 # How to Work
 Generate Word Cloud by a CSV text file. Write any intresting Words in the txt file.<br>
